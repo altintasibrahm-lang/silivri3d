@@ -16,3 +16,5 @@
 @media(max-width:359px){.grid{grid-template-columns:minmax(0,1fr)}.picture{aspect-ratio:4/3}.content{padding:16px}.category{min-height:0}h2{font-size:16px;min-height:0}.wrap{padding-left:12px;padding-right:12px}}
 @media(prefers-reduced-motion:reduce){.card{transition:none}}
 .filters button,.subtle,.visual-row button{min-height:44px}
+
+.visual-test-note{margin:12px 0;padding:12px 14px;border:1px solid #ead9aa;border-radius:9px;background:#fff8e7;color:#6e5727;font-size:13px;line-height:1.6;overflow-wrap:anywhere}
